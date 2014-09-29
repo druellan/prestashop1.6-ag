@@ -1,0 +1,18 @@
+
+[{shop_url}] 
+
+Hola {firstname} {lastname}, 
+
+Tu pedido de referencia {order_name} en {shop_name} ha tenido
+modificaciones. 
+
+Puedes revisar tu pedido y descargar la factura de compra desde el
+"Historial de pedidos" [{history_url}] en "Mi cuenta" [{my_account_url}]
+en nuestra tienda. 
+
+Si tienes una cuenta de invitado, puedes hacer el seguimiento de tu pedido
+a través de la sección "Tracking Invitado" [{guest_tracking_url}]
+en nuestra tienda. 
+
+{shop_name} [{shop_url}] creado con
+PrestaShop(tm) [http://www.prestashop.com/] 

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<localizationPack name="Argentina" version="1.0">
+	<currencies>
+		<currency name="Peso Argentino" iso_code="ARS" iso_code_num="032" sign="ARS" blank="1" conversion_rate="5.39" format="2" decimals="1" />
+	</currencies>
+	<languages>
+		<language iso_code="ag" />
+		<language iso_code="es" />
+	</languages>
+	<taxes>
+		<tax id="1" name="IVA AR 21%" rate="21" />
+        <tax id="2" name="IVA AR 10.5%" rate="10.5" />
+		
+		<taxRulesGroup name="AR Standard rate (21%)">
+            <taxRule iso_code_country="ar" id_tax="1" />
+        </taxRulesGroup>
+        
+		<taxRulesGroup name="AR Reduced rate (10.5%)">
+            <taxRule iso_code_country="ar" id_tax="2" />
+        </taxRulesGroup>
+	</taxes>
+	<units>
+		<unit type="weight" value="kg" />
+		<unit type="volume" value="L" />
+		<unit type="short_distance" value="cm" />
+		<unit type="base_distance" value="m" />
+		<unit type="long_distance" value="km" />
+	</units>
+      <states>
+            <state name="Buenos Aires" iso_code="AR-B" country="AR" zone="South America"/>
+            <state name="Catamarca" iso_code="AR-K" country="AR" zone="South America"/>
+            <state name="Chaco" iso_code="AR-H" country="AR" zone="South America"/>
+            <state name="Chubut" iso_code="AR-U" country="AR" zone="South America"/>
+            <state name="Córdoba" iso_code="AR-X" country="AR" zone="South America"/>
+            <state name="Entre Ríos" iso_code="AR-E" country="AR" zone="South America"/>
+            <state name="Formosa" iso_code="AR-P" country="AR" zone="South America"/>
+            <state name="Jujuy" iso_code="AR-Y" country="AR" zone="South America"/>
+            <state name="La Pampa" iso_code="AR-L" country="AR" zone="South America"/>
+            <state name="Mendoza" iso_code="AR-M" country="AR" zone="South America"/>
+            <state name="Misiones" iso_code="AR-N" country="AR" zone="South America"/>
+            <state name="Neuquén" iso_code="AR-Q" country="AR" zone="South America"/>
+            <state name="Río Negro" iso_code="AR-R" country="AR" zone="South America"/>
+            <state name="Salta" iso_code="AR-A" country="AR" zone="South America"/>
+            <state name="San Juan" iso_code="AR-J" country="AR" zone="South America"/>
+            <state name="San Luis" iso_code="AR-D" country="AR" zone="South America"/>
+            <state name="Santa Cruz" iso_code="AR-Z" country="AR" zone="South America"/>
+            <state name="Santa Fe" iso_code="AR-S" country="AR" zone="South America"/>
+            <state name="Santiago del Estero" iso_code="AR-G" country="AR" zone="South America"/>
+            <state name="Tierra del Fuego" iso_code="AR-V" country="AR" zone="South America"/>
+            <state name="Tucumán" iso_code="AR-T" country="AR" zone="South America"/>
+      </states>
+</localizationPack>

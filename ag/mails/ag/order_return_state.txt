@@ -1,0 +1,13 @@
+
+[{shop_url}] 
+
+Hola {firstname} {lastname}, 
+El estado de tu devolución #{id_order_return} ha cambiado a
+"{state_order_return}"
+
+Puedes revisar tu pedido y descargar la factura de compra desde el
+"Historial de pedidos" [{history_url}] en "Mi cuenta" [{my_account_url}]
+en nuestra tienda. 
+
+{shop_name} [{shop_url}] creado con
+PrestaShop(tm) [http://www.prestashop.com/] 

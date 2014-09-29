@@ -1,0 +1,12 @@
+
+[{shop_url}] 
+
+Hola {firstname} {lastname}, 
+Una nueva orden ha sido generada. 
+
+Por favor, entra en {order_link} [{order_link}] para
+finalizar el pago. 		 
+
+{shop_name} [{shop_url}] creado con
+PrestaShop(tm) [http://www.prestashop.com/] 
+

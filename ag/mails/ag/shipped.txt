@@ -1,0 +1,18 @@
+
+[{shop_url}] 
+
+Hola {firstname} {lastname},
+¡Te damos las gracias por tu compra en {shop_name}! 
+
+El pedido con la referencia {order_name} ha sido enviado.
+
+En caso haber elegido correo expreso, pronto recibirás un enlace para
+realizar el seguimiento de tu paquete. 		 
+
+Puedes revisar tu pedido y descargar la factura de compra desde el
+"Historial de pedidos" [{history_url}] en "Mi cuenta" [{my_account_url}]
+en nuestra tienda. 
+
+{shop_name} [{shop_url}] creado con
+PrestaShop(tm) [http://www.prestashop.com/] 
+

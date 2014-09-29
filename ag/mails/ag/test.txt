@@ -1,0 +1,10 @@
+
+[{shop_url}] 
+
+Hola 
+Este es un E-MAIL DE PRUEBA desde tu tienda. 
+Si puedes leerlo es que ¡la prueba ha sido realizada con éxito!. 
+
+{shop_name} [{shop_url}] creado con
+PrestaShop(tm) [http://www.prestashop.com/] 
+

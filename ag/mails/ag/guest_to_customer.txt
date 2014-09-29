@@ -1,0 +1,17 @@
+
+[{shop_url}] 
+
+Hola {firstname} {lastname}, 
+Tu cuenta de invitado en {shop_name} se ha transformado en una cuenta
+de cliente. 
+
+DIRECCIÓN EMAIL: {email}
+CONTRASEÑA: {passwd} 		 
+
+No compartas los detalles de tu cuenta con otras personas. 
+Puedes acceder con tu cuenta a través de nuestra página web:
+{shop_url} 
+
+{shop_name} [{shop_url}] creado con
+PrestaShop(tm) [http://www.prestashop.com/] 
+

@@ -1,0 +1,12 @@
+
+[{shop_url}] 
+
+Hola {firstname} {lastname}, 
+Has recibido un mensaje respecto al pedido: {order_name}.
+
+CLIENTE: {firstname} {lastname} ({email})
+
+{message} 		 
+
+{shop_name} [{shop_url}] creado con
+PrestaShop(tm) [http://www.prestashop.com/] 

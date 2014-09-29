@@ -1,0 +1,16 @@
+
+[{shop_url}] 
+
+Hola {firstname} {lastname}, 
+
+Se ha creado un vale a tu nombre, por haber realizado un pedido con la
+referencia {order_name}.
+
+CÓDIGO DEL VALE: {voucher_num} de un montante de {voucher_amount}
+
+Copia y pegua este código durante el proceso de pago de tu próxima
+compra. 		 
+
+{shop_name} [{shop_url}] creado con
+PrestaShop(tm) [http://www.prestashop.com/] 
+
